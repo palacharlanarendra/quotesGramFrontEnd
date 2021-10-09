@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93b6d578.chunk.css",
+    "main.js": "/static/js/main.4b113656.chunk.js",
+    "main.js.map": "/static/js/main.4b113656.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef424b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef424b5f.js.map",
+    "static/css/2.c91d652b.chunk.css": "/static/css/2.c91d652b.chunk.css",
+    "static/js/2.f6777004.chunk.js": "/static/js/2.f6777004.chunk.js",
+    "static/js/2.f6777004.chunk.js.map": "/static/js/2.f6777004.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c91d652b.chunk.css.map": "/static/css/2.c91d652b.chunk.css.map",
+    "static/css/main.93b6d578.chunk.css.map": "/static/css/main.93b6d578.chunk.css.map",
+    "static/js/2.f6777004.chunk.js.LICENSE.txt": "/static/js/2.f6777004.chunk.js.LICENSE.txt",
+    "static/media/404Error.d565f2d8.jpg": "/static/media/404Error.d565f2d8.jpg",
+    "static/media/illustrations_socialsenerity.d0c27b56.png": "/static/media/illustrations_socialsenerity.d0c27b56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef424b5f.js",
+    "static/css/2.c91d652b.chunk.css",
+    "static/js/2.f6777004.chunk.js",
+    "static/css/main.93b6d578.chunk.css",
+    "static/js/main.4b113656.chunk.js"
+  ]
+}
