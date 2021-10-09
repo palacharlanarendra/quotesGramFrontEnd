@@ -50,10 +50,11 @@
 
 ## About The Project
 
-QuotesGram, where you can post your favourite quotes, following are the features, I tried to mimic few features from Twitter/FB.
-All the users,quotes data will be stored on the mongoDb, This is the solid full stack MERN project, All i can say is "Quote Boldy'
+QuotesGram, where you can post your favourite quotes, I tried to mimic few features from Twitter/FB.
+All the users,quotes data will be stored on the mongoDb, This is the solid full stack MERN project, All i can say is "Quote Boldy'. 
+Following are the features:
 * User Authentication using JWT.  
-* Displaying the global quotes for the website visitor.  
+* Displaying the global quotes for the website visitors.  
 * Website visitors can read all the quotes posted by the users.    
 * Authorized users can only post new quotes. 
 * Authorized users can only like, dislike, and give heart to any of the quotes.  
@@ -112,22 +113,22 @@ To get a better idea about this project, follow my instructions (How to use?)
 
 1. Enter the 'npm start' to run the project, Run the react project on the default link http://localhost:3000/ or click on the Live Link: [https://quotesgram-1dfb6.web.app/](https://quotesgram-1dfb6.web.app/)
 2. Navigate to the signup page and try to register with your own credentials.
-3. Navigate to the Sign-in link in the navigation bar and enter the credentials, so that you can register/login into the app.
+3. Navigate to the Sign-in link and enter the credentials, so that you can register/login into the app.
     you can use the following credentials if you are unable to register.
      ```JS
    email id : nari@gmail.com
    password : asdf1234
    ```  
 4. Once you logged into the website, you can be able to access the private homepage where you can access the home, my posts, settings, profile links.       
-5. you can write the quotes on your mind and can post them, which will be directly appeared on the feed section.
-6. you can change your first name, last name from the update settings page.   
+5. You can write the quotes on your mind and can post them, which will be directly appeared on the feed section.
+6. You can change your first name, last name from the update settings page.   
 7. You can view, like, dislike, and give heart to all quotes posted by any user    
-8. user can sign out by clicking the signout button, at the top-right corner of the header, then he will be redirected to the home page. 
+8. User can sign out by clicking the signout button, at the top-right corner of the header, then he will be redirected to the home page. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions would be highly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -145,7 +146,7 @@ API deployed over here [BASE URL](https://quotesgram.herokuapp.com/).
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/narendrapalach1) - narendrapalacharla@gmail.com
+Narendra - [@narendrapalacharla1](https://twitter.com/narendrapalach1) - narendrapalacharla@gmail.com
 
 Project Link: [https://github.com/palacharlanarendra/quotesGramFrontEnd](https://github.com/palacharlanarendra/quotesGramFrontEnd)
 
