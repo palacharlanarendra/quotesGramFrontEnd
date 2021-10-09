@@ -3,13 +3,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/palacharlanarendra/amazon-clone">
-    <img src="https://www.iconsdb.com/icons/preview/barbie-pink/quote-xxl.png" alt="Logo" width="150" height="40">
+    <img src="https://www.iconsdb.com/icons/preview/barbie-pink/quote-xxl.png" alt="Logo" width=80" height="40">
   </a>
 
   <h3 align="center">QuotesGram</h3>
 
   <p align="center">
-    Boldly Quote
+    Quote Boldy
     <br />
     <a href="https://github.com/palacharlanarendra"><strong>Explore the docs »</strong></a>
     <br />
