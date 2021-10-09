@@ -51,7 +51,7 @@
 ## About The Project
 
 QuotesGram, where you can post your favourite quotes, following are the features, I tried to mimic few features from Twitter/FB.
-Here's are the features:
+All the users,quotes data will be stored on the mongoDb, This is the solid full stack MERN project, All i can say is "Quote Boldy'
 * User Authentication using JWT.  
 * Displaying the global quotes for the website visitor.  
 * Website visitors can read all the quotes posted by the users.    
